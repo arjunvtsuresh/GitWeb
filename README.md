@@ -1,2 +1,2 @@
 # Web
-My first git hub page
+A static website.
